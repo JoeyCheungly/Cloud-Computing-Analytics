@@ -1,18 +1,21 @@
---------------------
-Name: Lok Yee Joey CHEUNG
-SID:47633542
---------------------
+# US Airline Passengers’ Satisfaction Analytics
 
-Folders: 
+## Introduction
+
+Welcome to the Cloud-based application and analytics GitHub repository! This repository contains an application that aims at conducting Machine Learning tasks via Spark MLlib for feature importance detection, customer segmentation and building classification models regarding the satisfaction and flight classes of airline passengers in the United States. 
+
+## Dataset
+
+Klein, T. (2020, February 20). Airline passenger satisfaction. Kaggle. https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data 
+
+## Folders: 
 
 `MLlib`: To be uploaded to GCP VM, contains docker-compose file (docker-compose_hdfs_spark.yml), Hadoop environment file (hadoop.env) and a nbs folder 
 
 `MLlib/nbs`: Two datasets (train.csv, test.csv), jupyter notebook for spark implementation (47633542.ipynb)
 
 
----------------------
-Commands Submission
----------------------
+## Usage Commands 
 
 1. Upload MLlib zip file and unzip it 
 unzip MLlib.zip
