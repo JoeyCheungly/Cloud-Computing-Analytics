@@ -27,7 +27,7 @@ MLlib/
 └── nbs/
     ├── train.csv
     ├── test.csv
-    └── 47633542.ipynb
+    └── analytics.ipynb
     
 ## Usage Commands 
 
@@ -69,7 +69,7 @@ exit
 10. (Optional) Set permission 
 sudo chmod -R 777 $HOME/proj/nbs
 
-11. Go to EXTERNAL_IP:8888 to access jupyter notebook
+11. Go to EXTERNAL_IP:8888 to access jupyter notebook `analytics.ipynb`
 
 ## Contributing
 
