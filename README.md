@@ -1,5 +1,16 @@
 # US Airline Passengers’ Satisfaction Analytics
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Folders](#folder)
+- [Usage Commands](#usage-commands)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [Contact](#contact)
+- [References](#references)
+
 ## Introduction
 
 Welcome to the Cloud-based application and analytics GitHub repository! This repository contains an application that aims at conducting Machine Learning tasks via Spark MLlib for feature importance detection, customer segmentation and building classification models regarding the satisfaction and flight classes of airline passengers in the United States. 
@@ -10,11 +21,14 @@ Klein, T. (2020, February 20). Airline passenger satisfaction. Kaggle. https://w
 
 ## Folders: 
 
-`MLlib`: To be uploaded to GCP VM, contains docker-compose file (docker-compose_hdfs_spark.yml), Hadoop environment file (hadoop.env) and a nbs folder 
-
-`MLlib/nbs`: Two datasets (train.csv, test.csv), jupyter notebook for spark implementation (47633542.ipynb)
-
-
+MLlib/
+├── docker-compose_hdfs_spark.yml
+├── hadoop.env
+└── nbs/
+    ├── train.csv
+    ├── test.csv
+    └── 47633542.ipynb
+    
 ## Usage Commands 
 
 1. Upload MLlib zip file and unzip it 
