@@ -56,3 +56,19 @@ exit
 sudo chmod -R 777 $HOME/proj/nbs
 
 11. Go to EXTERNAL_IP:8888 to access jupyter notebook
+
+## Contributing
+
+Contributions to this project are welcome! If you have suggestions for improvements, encounter any issues, or want to add new features, feel free to submit a pull request or open an issue.
+
+## Credits
+
+- Lok Yee Joey Cheung - Author
+
+## Contact
+
+For any questions, feedback, or collaboration opportunities, feel free to contact the author at cheunglokyeejoey@gmail.com
+
+## References
+
+- University of Queensland Course INFS3208 2023 Sem 2
